@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user2/EFGetStarted/EFGetStarted.csproj": {}
+    "/home/user2/bank/bank.csproj": {}
   },
   "projects": {
-    "/home/user2/EFGetStarted/EFGetStarted.csproj": {
+    "/home/user2/bank/bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user2/EFGetStarted/EFGetStarted.csproj",
-        "projectName": "EFGetStarted",
-        "projectPath": "/home/user2/EFGetStarted/EFGetStarted.csproj",
+        "projectUniqueName": "/home/user2/bank/bank.csproj",
+        "projectName": "bankd",
+        "projectPath": "/home/user2/bank/bank.csproj",
         "packagesPath": "/home/user2/.nuget/packages/",
-        "outputPath": "/home/user2/EFGetStarted/obj/",
+        "outputPath": "/home/user2/bank/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user2/.nuget/NuGet/NuGet.Config"
